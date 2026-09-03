@@ -1,0 +1,2 @@
+# 3D engine and `direct` modules used by GFS25_3D_V2.py.
+panda3d
